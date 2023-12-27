@@ -1,3 +1,11 @@
-Computational chemist, PhD candidate.
+<h1 align='center'>
+  Hi there, I'm Vinicius
+</h1>
 
-Find out more about me: <https://caprilesport.github.io/>
+<p align='center'>
+    Computational chemist, PhD candidate.
+</p>
+
+<p align='center'>
+    <a href="https://caprilesport.github.io">Find out more about me</a>
+</p>
