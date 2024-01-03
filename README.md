@@ -4,8 +4,4 @@
 
 <p align='center'>
     Computational chemist, PhD candidate.
-</p>
-
-<p align='center'>
-    <a href="https://caprilesport.github.io">Find out more about me</a>
-</p>
+</p> 
